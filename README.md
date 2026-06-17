@@ -1,4 +1,4 @@
-# Software Architecture Research Agent
+# Software Researcher Agent
 
 A research-oriented AI agent system built from scratch to explore how modern agent architectures evolve over time.
 
